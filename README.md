@@ -172,10 +172,10 @@ tom.html
 ```
 
 ## SERVER SIDE PROCESSING:
-![alt text](<Screenshot (57).png>)
+![alt text](<Screenshot (61).png>)
 
 ## HOMEPAGE:
-![alt text](<Screenshot (55).png>)
+![alt text](<Screenshot (62).png>)
 
 ## RESULT:
 The program for performing server side processing is completed successfully.
